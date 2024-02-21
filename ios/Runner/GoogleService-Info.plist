@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>107636989936-7n2fqmmtks641ohqnne98ca781vn0t60.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.107636989936-7n2fqmmtks641ohqnne98ca781vn0t60</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>107636989936-383nu9phkqm41f7tbehtp8q84lh9q0ed.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC-C15rfxOdutt88Ph77m1gvea4_uUrJe0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>107636989936</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mysirani</string>
+	<key>PROJECT_ID</key>
+	<string>my-sirani-5370e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>my-sirani-5370e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:107636989936:ios:46e152f6ae19c36e2a4735</string>
+	<key>DATABASE_URL</key>
+	<string>https://my-sirani-5370e.firebaseio.com</string>
+</dict>
+</plist>

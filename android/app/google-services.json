@@ -1,0 +1,95 @@
+{
+  "project_info": {
+    "project_number": "107636989936",
+    "firebase_url": "https://my-sirani-5370e.firebaseio.com",
+    "project_id": "my-sirani-5370e",
+    "storage_bucket": "my-sirani-5370e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107636989936:android:53ea2c5fecfc8e842a4735",
+        "android_client_info": {
+          "package_name": "com.mysirani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107636989936-383nu9phkqm41f7tbehtp8q84lh9q0ed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mysirani",
+            "certificate_hash": "c8e2c5d2955d5d460b20c988dda71dee47a9946a"
+          }
+        },
+        {
+          "client_id": "107636989936-a1h3r9unrirm7bn20mc7pui5o7g298nq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mysirani",
+            "certificate_hash": "4ae1c754edf4033306f22234d4bcd46fd2da31c0"
+          }
+        },
+        {
+          "client_id": "107636989936-c4naov91anrs5qnc41bodvv5090op7vn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mysirani",
+            "certificate_hash": "e774555d6ebe22c11acfd93e77c82ca148deb0e8"
+          }
+        },
+        {
+          "client_id": "107636989936-ir4s8tn2qrf8h6mkh7hta59q47b5b26l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mysirani",
+            "certificate_hash": "798f5a8c80529217f0866bc70d68ada304cf6430"
+          }
+        },
+        {
+          "client_id": "107636989936-pirrhj4dp118gljl16iir7hfls85rul5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mysirani",
+            "certificate_hash": "20b65fc5fb5bd9ede475c823ed94129bea2529ed"
+          }
+        },
+        {
+          "client_id": "107636989936-vgg3onfilvi3ilgomam1i0808sdc1bev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mysirani",
+            "certificate_hash": "d97d229e5315f6b81430009ca497555c0750c74d"
+          }
+        },
+        {
+          "client_id": "107636989936-l6d2d9e4nl1v9hvi974d3mg3fhjpnmlc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ_PlPKTnXDUb637G66o8nr9Vq93P8aYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107636989936-19lu1avmqsdvrbm9q71hnp4pkf67g4gh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "107636989936-1onqtc98neq38r9isj2d54747rjrrsev.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ChaitanyaDesign.MySirani"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
